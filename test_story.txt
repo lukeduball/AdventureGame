@@ -1,0 +1,149 @@
+Freaked out by the noise, you stomp about wildly. Good thing it's dark; otherwise someone would see you stomping like a little kid. Good thing it's dark; they'd all see your spooked expression. Good thing it's dark; otherwise you'd notice there was a snake about three feet in front of you. You stop stomping, relieved and thinking you scared the pest off. Wrong! It slithers up to you and bites your leg. Hard. You feel the blood drain from your face. Darn. Just your luck. It's a poisonous snake. Just great. You have died.
+null
+null
+none
+end
+You swing open the first door. Freedom, here you come! ...or not. About twenty soldiers on lunch break stare at you. One even drops their sandwich. Eventually, they raid the kitchen for silverware and before you can run away, they fall upon you with forks and knives blazing. They jab and tear at your flesh, bit by bit. You didn't even know that a spoon could be used as a murder weapon. Why you? You only wanted to escape. Maybe make some better choices in the afterlife. You have died.
+null
+null
+none
+end
+You open the second door and walk past the threshold. No sooner do you enter the room than do wolves attack you and tear out your trachea. Gasping for air like a fish out of water, you curse your luck and breathe your last. You have died.
+null
+null
+none
+end
+You assume that stomping is not a good idea at all. There could be a snake around. You are right. You see the snake slithering away from you and let out a relieved sigh. Continuing down the hall, you notice there are two doors ahead of you. Will you open the first or the second door?
+one
+two
+none
+mid
+Jumping down the trapdoor kind of hurts your ankles. You regret skipping leg day last week. You traipse down the hall for a bit. Suddenly, you hear a noise. Do you stomp the ground blindly or wait for a bit?
+stomp
+wait
+none
+mid
+Man, that hangover really messed you up. You must be imagining things. Ignoring your common sense (and paying more attention to your growling stomach), you gobble up the toast ...wait a minute. It didn't quite go down all the way. It kind of stuck there in your throat? and it's not moving?HOLY CRUD, YOU'RE CHOKING! YOU NEED THE HEIMLICH MANEUVER OR SOMETHING! The toast has had its revenge! What, you expect the GUARD to give you the Heimlich? Heck, no, buster! The guards are ridiculously cruel and won't even spare a dying prisoner. You are getting tunnel vision now. Coughing and spluttering, you just barely see the guard smirk. ?But is that laughter coming from the guard, or the half-eaten toast lodged in your esophagus? "I told you not to eat me!" Curse that toast. You have died. 
+null
+null
+none
+end
+Empty
+Empty
+You fumble with the key, your hands shaking with excitement. You're getting out of here! You open the door and start running. You even toss the key to a different prisoner, in hopes that he will get out, too. Laughing, you look back to see how far you've gotten? and run into a guard. His bulging muscles twitch as he stares down at you menacingly. You turn around to run the other way, but he grabs you and crushes your ribs. You can almost feel your heart burst... You have died. 
+null
+null
+none
+end
+You open the left door, walking into a cold, drafty room. As you walk in, the door slams behind you. You laugh. Classic horror movie scare tactics won't affect you. After all, you've braved your way through this dungeon. However, you probably won't be able to brave your way out of a pit, especially if there are sharp spikes at the bottom. That guard who shoved you off the ledge looks awfully smug. You open your mouth to comment about how your tax dollars pay their salary, but are interrupted by cold, unforgiving DEATH. And spikes. That's what you get for being snarky. You have died.
+null
+null
+none
+end
+Empty
+Empty
+Wait a minute. Light? You can barely see, but you sure can hear. Birds (they don't SEEM angry) chirping, and the rushing waters of a stream. Clawing at the bricks, you dislodge a few and the wall tumbles down. FINALLY, structural design flaws lead to freedom. Not so cliche‚ after all, hmm? You stagger over to the babbling brook and drink excitedly. You are free! This is the perfect time to wash the bird poo off your head. Some raspberries are growing on a bush nearby. You eat them and sigh as you thank whatever deities you believe in for your now satiated stomach. You relax in the shade of a nearby tree. Relieved and calm, you notice something pressing into your leg from inside your pocket. You pull it out? A small, round stone with ancient sigils carved into it illuminates your face with a faint light. A teleport rune?! This thing had been in your pocket for all this time and you never noticed! Why hadn't you thought of it before?! You shove your face into your pantleg and groan loudly. Fleeing from the area and heading towards home, you resolve to be a bit more careful next time. And to never put your trust in talking toast.
+null
+null
+none
+end
+First, near-starvation. Second, the stomach-churning stench of this tunnel. NOW you've gone and gotten your eye pecked out by those Angry Birds. You have been scarred for life (figuratively and literally) and resolve to never play that accursed bird-slinging game again. This, by far, is the crappiest experience of your life. No, really, you'll probably still be picking bird feces out of your hair for weeks. You really just want a bed, some food, a nice bath, and an eyepatch. Quite possibly some good medical treatment, as that bird poop is dripping in your empty eye socket and open wounds. That can't feel good. You fall on the ground and scream. Probably not the best option.  A dead end. You can feel it. You start to sob, and your eyes shut against the tears and the beam of light from behind the bricks. 
+null
+break
+none
+mid
+You open the door on the right. Walking into a warm room, you hear the trickling of water and feel plants brush up against you. You must be outside! That or you've entered the royal greenhouse. You hear slight squawking noises, soft at first. The noise seems oddly familiar. You wonder why it's so dark in this room. Your idea of escape slowly fades, contrasting with the cawing of birds, which is still getting louder. Now you KNOW you've heard this before. Suddenly, the lights come on and any uncertainty is laid to rest. Small, round, fuzzball-looking birds look up at you. Angry Birds! You laugh and begin to wonder where the slingshot is, and why there are no pigs around. The cartoon fowl seem more ruffled than usual. The red one with the stupid eyebrows gives a raucous "SQUAWK!!" and hops about aggressively. You see your reflection in the water. A green pig hat rests on your head. All of a sudden, you are doused in paint (also green). The birds screech and start attacking you. A peck here, a scrape there... That one was a bit too close to your eye. That attack even closer. The next peck removes your right eyeball. You scream and cover your eye. Rolling on the ground, you feel the creatures going for your ears next. You just barely escape through the nearby trapdoor and hear mocking cries from the Angry Birds...
+null
+stumble
+none
+mid
+You fit the key into the lock and turn it. Perfect. The secret door opens with out a hitch. You walk inside, close the door, and start exploring. Eventually, you come across two doors. Will you go left, or right?
+left
+right
+none
+mid
+Empty
+You decide to stay put for a while. It's really not a good idea to just charge out of your cell. That's a one-way ticket to Deathville, and you haven't even packed your bags. You look around the room, searching for other options when you see a secret door. So THAT was what the key was for! Do you use the key?
+open
+null
+none
+mid
+You pry open the small wooden chest. Inside is a small key that seems to fit the door lock! You can't believe your luck! All you must do now is fit the key in the lock? Will you wait or use the key?
+use
+wait
+none
+mid
+Empty
+Maybe YOU should be institutionalized! What SANE PERSON puts their head into a guillotine?! Well, in any case, you made the executioner's job easier. He releases the rope and... well, you know the rest. OFF WITH HIS HEAD! You have died.
+null
+null
+none
+end
+You struggle against the guard's grip, but to no avail. He's simply too strong. You really wish you had worked out, but no, you were "too busy" every day your buddies went to the gym. You scream internally and wish you were dead. Guess what? You will be. Soon. You have died.
+null
+null
+none
+end
+You follow the guard. He leads you down several corridors, chuckling to himself. "Yep, we're gonna kill him so good... heh heh hee..." you hear him mutter. He should be institutionalized. You see a clearing, and a wooden device with a wicker basket underneath. The guillotine. Seeing no point of escape, you continue to follow. You stand behind the guillotine as the executioner reads your sentence. You haven't done much, you just ESCAPED FROM YOUR CELL, ATE, DRANK, BREATHED, AND EXISTED IN GENERAL. Or, at least, according to the guy with the axe. You roll your eyes and hear the executioner add that to your list of "wrongdoing". You look at the shiny blade and then down at the hole where your head goes. The guard grabs your shoulders. Do you lean your head in or try to resist?
+lean
+resist
+none
+mid
+Rather disappointed, you decide to keep digging. Humming a catchy tune puts you in a good rhythm, too. You go through a few songs until you can't remember any more. That's when you notice the guard looking right at you. He doesn't look too pleased about this recent turn of events. You grin nervously and try to put the spoon down. The cell door flies open. He rips it out of your hand and slams the gates shut. Walking over to his friends, he holds up the grimy spoon and mimes digging. Barbaric laughter from the group. Great. Your spoon has been confiscated, and the guard grabs your wrist. "It's the guillotine for you, pipsqueak." You swallow hard. It looks like he won't take fleeing for an answer. That's a really sharp sword at his side. Do you follow him down the corridor?
+null
+follow
+none
+mid
+Well, looky here! You found a chest! It's a tiny one, though. You are kind of disappointed, and look over at the dirt again. Will you open the chest or continue digging?
+open
+continue
+none
+mid
+Empty
+You push and push against the brick, but to no avail. What were you THINKING? You can't escape a dungeon like that! This isn't some video game! The guards probably loosened that brick to torture poor suckers like you who have watched one too many prison-escape films. Come on. It's time to get real. You sit in the middle of your cell moping until your food arrives. You eat the gray mashed potatoes and sigh. This is disgusting. But you weren't expecting haute cuisine, were you? Oh, look. A spoon. ? Oh no. NO, no, no. You aren't thinking of DIGGING your way out, are you? ? Hmm? but? it just might work. There's a rather SUSPICIOUS-looking patch of dirt over there? You decide to dig.
+dig
+null
+none
+mid
+Following the toast's instructions, you spot a loose-looking brick. This will be too easy...  Yeah. Way too easy. You look at the toast, which grins at you cheerfully. "Trust me!" it chirps. You give it a quizzical look and begin to doubt it. This seems like a half-baked idea. Staring at the brick, you begin to weigh the circumstances? well, if you don't try, you'll never know! Your curiosity gets the best of you.
+null
+push
+none
+mid
+You stare at the toast in disbelief. You've never seen a talking piece of toast. Not ever. Not even at the zoo. Or the circus. Or whatever. (Note to self: Go see the world. You don't know what you're missing!) The piece of toast giggles obnoxiously. You are reminded of a cartoon character. "Thanks for not eating me! In return for your kindness, I'll give you a hint!" It tells you a rumor of a loose brick in the left wall. You decide to give it a go. 
+null
+follow
+none
+mid
+You settle on the idea that the trapdoor is a stupid idea. It's too cliche. Now all you'd need is a spoon and you've have a dungeon-escape kit! Shaking your head in disdain, you sigh exasperatedly. A soldier stomps up to your door. "Food for you." He growls at you. He drops the plate on the ground with an unsettling clatter. You weren't expecting first-class service in a dungeon, were you? Looking at the undercooked toast, you notice you are feeling kind of hungry. But did it just speak? "Hi there!" You recoil a bit. Do you eat the toast or leave it there? "Don't eat me!" It squeaks.
+eat
+listen
+none
+mid
+You wait for a bit. As your eyes adjust to the dark, you notice a square indention in the floor. A trapdoor! Do you open the door, or ignore it?
+open
+ignore
+none
+mid
+Empty
+Empty
+It must be your imagination. You greedily slurp from the metal cup. It tastes kind of funny... maybe you shouldn't have drunk that? The room starts to spin, and your stomach starts to burn. Your eyes water, and you could have sworn that was blood you just coughed up. That's some serious poison. Is this truly how cruel the enemy is? Your last thought is how much you wish you could cuss right now. But you can't. Because you screamed too loud. And that poison messed up your esophagus pretty good. You hate life. Really sure you'll hate death, too. You have died.
+null
+null
+none
+end
+You open your eyes, only to see a ticked-off looking guard above you. "Get up and drink your water, sleepyhead!" You spring up and grab the cup. The guard grunts and storms off. Peeking into the cup, you notice the water looks a little foamy. Will you drink it?
+null
+quaff
+none
+mid
+You open your mouth and scream bloody murder. At least until a cry of "SHUT UP!" arises from the nearby cells. Well, THAT was a stupid choice. Your throat is sore, and you can't even form a single word. You yawn (to your discomfort) and you decide to turn in for the night. Next morning, you hear banging on your cell door. Do you open your eyes?
+null
+wake
+none
+mid
+You are a young man, about age 24. As a soldier, you have been a rather good egg all your life, at least, according to your aunts and uncles (although they tend to sugarcoat things). Unfortunately, this has not allowed you to avoid being thrown into this dank, dark dungeon. You search your memory for clues as to how you ended up here. Remembering you got a little drunk last night, you try to clear you mind. No such luck. You throw up in the corner before continuing to rack your brain for information. Coming up with nothing, you sit for a while. Peering into the darkness, you see an imposing insignia emblazoned on a flag nearby. Of course! The enemy must have captured you. You curse your carelessness and eventually come up with two options. You can wait to get over your hangover or scream for help.
+wait
+scream
+none
+mid

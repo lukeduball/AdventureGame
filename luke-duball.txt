@@ -1,0 +1,113 @@
+You slowly get up off the ground trying to make as little noise as possible. The snow is slowly crunching underneath your body as you get up but the beast doesn't seem to notice. Finally, you turn the opposite direction of the beast and take off as fast as you can. You hear the beast barking at you as it starts to give chase. Panicked you look back to see how close the wolf it to you. You think you big a fool you are to try and outrun a wolf. That is when you hit a branch and fall to the ground. You get back up to see a dozen glowing eyes surrounding you. The tallest set of eyes LUNGES FORWARD! It all goes black. YOU ARE DEAD!
+null
+null
+none
+end
+You flatten to the ground and stay completely still. The glowing eyes creep forward...creep forward...and creep forward. This moment seems to last an eternity. The beast moves up to the fire to reveal the grey wolfs huge stature and fierce teeth. It appears as if he doesn't see you and then he starts to sniff with his nose...%n immediately the wolf turns his attention right toward you. How could you been so foolish to think that the wolf wouldn't be able to smell you? The wolf LUNGES FORWARD AND DRAGS YOU AWAY INTO THE WOODS! There is nobody to hear you scream. YOU ARE DEAD!
+null
+null
+none
+end
+All you can do is wait as the ringing noise slowly subsides. You are surrounded by a dozen sets of glowing eyes. You back further and further into your hiding spot as you hear the nasty snarls and heavy breathing of the beasts outside. You pray that they leave and give up hunting in the wreckage, but you are not so lucky as one set of eyes starts to come around the corner. You have no choice but to try and fight the wolf off. The wolf is much too strong and easily overpowers you. Right before his jaws clamp down on your neck you think maybe you should have found a safe place the minute you heard their bone-chilling howl. THE JAWS CLAMP DOWN! YOU ARE DEAD!
+null
+null
+none
+end
+Empty
+Your hands a trembling as you are overcome with immense fear. You gather all the courage you can muster and launch the rock at the glowing yellow eyes with all strength that you can muster. But, you were trembling too much and miss the beast by quite a lot. The rock hurled through the frozen air and strikes a piece of the plane. The metal TING! rings through the forest and the beast snarls and runs toward the noise! This is your chance as you run to your hiding place. You believe you are safe for now but watch as the rest of the pack starts to bark and runs into the wreckage from the trees. You are trapped...
+wait
+null
+none
+mid
+You stay on your belly and start to crawl trying to make as little noise as possible. The beast starts to take an interest in where you are at. The glowing eyes start to bounce as the beast trots toward your fire. It is only a matter of time until the beast is a few feet away. It is dark enough where you are at maybe if you stay completely still the beast will not see you. However, the beast will be so close, maybe you should stand your ground and use the rock next to you and throw it at the glowing eyes. Do you stay still or throw the rock?
+stay
+throw
+none
+mid
+You jolt awake! It would be pitch black out if it wasn't for the full moon and the scattered fires around the crash. That's when you notice a pair of glowing eyes by one of the fires. You frantically look around for a place to hide from the beast. There seems to be a good spot under a part of what's left of the plane. Maybe hiding is not the best idea and you should just fun for your life instead. Do you run or hide?
+run
+hide
+none
+mid
+Empty
+You continue to look around the wreckage for things you can use. You find a good amount of granola bars and beef jerky that will certainly keep you from going hungry for just a little while. The sun is starting to go down now and you feel as a little safer as the howls from the wolves have seemed to stop. You decide you should keep a fire going to stay warm so you add wreckage to an already burning fire. It is so warm and nice by the fire that you decide to rest your eyes for a bit.
+rest
+null
+none
+mid
+You continue walking around the lake but it never seems to end. You are so tired and so exhausted that you collapse to the ground. The snow feels like a blanket as it continues to fall and cover your body. Maybe this is a good place to rest you think, so you close your eyes. But, unlike other times you have gone to rest, you never open them again as you freeze to death. YOU ARE DEAD!
+null
+null
+none
+end
+You decide you can't wait any longer. You need food and you need to make it to the nose of the plane. In your desperation, you move too quickly across the ice and realize that maybe it is not as thick as it was farther back. You start to hear the ice cracking each step your take. CRACK... CRACK... CRACK... too terrified to take another step, you realize it is too late. The ice beneath you gives way and you plunge into the icy waters. You look for a way out from under the ice but it is impossible to find. Your lungs fill up with water as you sink to the bottom. YOU ARE DEAD!
+null
+null
+none
+end
+You decide that crossing the frozen lake may not be very safe so you decide to take a long way around. You walk... and you walk... and you walk... but the lake seems to stretch on for miles. At this rate, you will never make it to the nose of the plane. As you grow more tired and hungry, perhaps crossing the frozen lake is worth the risk. There could be food at the nose of the plane. But, then again you have been walking for so long you are bound to make it around the lake. Do you continue walking or cross the frozen lake?
+continue
+cross
+none
+mid
+You decide to cross the lake as you know you can not survive much longer out in this frozen wasteland. The ice seems very thick which is a great sign as you cross the lake without much difficulty. You move over the hill and find the crash site of the nose of the plane. You find your pilot is dead, but in his pocket is a satellite phone. You call for help and get an answer as emergency services are sent your way. You are so relieved when the helicopter comes down and you are once again up in the sky in the warm chopper. YOU ARE SAVED! 
+null
+null
+none
+end
+Your patience pays off as the wolves go on their way and night turns back into day. Your body is beaten, battered, and frozen, but you are still alive. You descend the tree and head in the direction of the smoke you saw from the previous day. You are filled with hope until you reach the frozen lake. Going across it would be the fastest way to the nose of the plane, but maybe you should find another way around so as not to fall through. Do you go around or cross the frozen lake?
+go around
+cross
+none
+mid
+In your eagerness, you decide to climb down the tree. You think this is it, this is your chance to get out of this horrible situation. You start descending faster... and faster... but suddenly, you step on the wrong branch and it SNAPS! You plummet toward the ground and hit it with a THUD! You already hear the pack of wolves heading your way before you even realize what happened. You try to get up but your leg can't support your weight. The wolves are on top of you in seconds, and you remember right before it is all over, patience is really a virtue. YOU ARE DEAD!
+null
+null
+none
+end
+As you wait up in the tree, you see the wolves start to move in. Good thing you are up high so they can't find you, and if they did they would not be able to get to you. You see the wolves moving through the crash site nosing around looking for food. You realize how high you are and that you can see for miles around, one thing that catches your eye is some smoke in the distance. You think... just maybe... that it could be the nose of the plane and with it may be a way out of this awful situation. You think maybe you should wait for the wolves to be safely out of sight, but with every minute you wait, the more the elements take their effect on your body. Do you wait for the wolves to leave, or descend the tree and head toward the smoke?
+wait
+descend
+none
+mid
+Empty
+You decide that looking for a good place to shelter yourself from the wolves is a good idea since they are most likely to be headed to the site of a recent crash. Thinking to yourself, the best place to stay away from the wolves would be high up, so you decide to climb a tree. You take some rope with you and go to the treeline and tie yourself onto the tree. Now all you can do is wait...
+wait
+null
+none
+mid
+You nose around the wreckage at multiple spots and finally find what you are looking for. You open the suitcase and find a plethora of clothes. At this point, you are frozen so you start putting clothes on as quickly as you can finally ending with a winter coat. You are feeling warmer now but suddenly you hear the distinct howling of wolves. You think you should find a safe place in the trees from the wreckage, however, the wolves seem far away, maybe you should look around more and see if you can't find some food. Do you look around for food or find shelter from the wolves?
+food
+shelter
+none
+mid
+You approach the wreckage and realize that it seems the radio is in the far side! You are saved as long as you can get it to work. You run over to the radio to rip it out of the snow, in your excitement you do not realize that it is resting on the side of a cliff. Once you pull it out of the snow the cliff collapses and you fall down the cliff and are buried under the snow. YOU ARE DEAD!
+null
+null
+none
+end
+You unstrap your seat belt and carefully lift yourself out of the seat. Pain shoots through your entire body as you feel the effects of the crash. You look around an realize all of your belongings have been scattered around as if a tornado had torn through the area. The glimmer off some of the wreckage catches your attention, maybe there is some electrical equipment there that you can use to call for help? However, there is quite a chill in the air, maybe some there is some warmer clothes in the other wreckage. Do you go to the invenstigate shiny wreckage or find clothes?
+clothes
+investigate
+none
+mid
+You press on in your stubbornness and it will truly be the end of you. You brought no clothes and no food as you venture forth into the unforgiving wilderness. You become too frozen to even move your body as you collapse to the ground, perhaps it would have been wise to look around before walking off in a random direction. YOU ARE DEAD!
+null
+null
+none
+end
+You start to head back the way you came, but the wind begins to pick up and the snow starts to fall from the sky in baseball-sized chunks. You can't see where you are going, or where you have ever been. Your tracks are filled in by the snow and now you are truly lost. Not even the wolves will be able to find your body now as you are buried under the snow forever. YOU ARE DEAD!
+null
+null
+none
+end
+At the time it seemed like such a good idea, but maybe you were still recovering from hitting your head from the crash. Who walks into the frozen wilderness without so much as a coat in the direction that could be as easily wrong as if the back of the plane had rotated. Do you press on and keep going or head back to the crash site?
+press on
+head back
+none
+mid
+As you wake up you notice the chill of the wind on your face as the snowflakes fall all around you. Still strapped in your seat, you try to recall what happened...%n Suddenly it hits you, scanning your desolate snowy covered landscape surrounded by towering trees in every direction, YOUR PRIVATE PLANE HAS CRASHED IN THE ALASKIAN WILDERNESS! The front of the plane is gone and you are all alone. Do you look around the wreckage first, or walk in the direction of where the head would have been on your plane to look for the pilot?
+look around
+walk
+none
+mid
